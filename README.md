@@ -1,7 +1,5 @@
-
-<!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+BhardrinathN+👋;Aspiring+Software Developer;Passionate+about+Ai Innovations;Always+learning+something+new+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Hi+There%2C+I'm+Bhardrinath+N+👋;Aspiring+Software+Developer;Passionate+about+What+we+are+doing!!;Always+learning+something+new+🚀" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -27,13 +25,13 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/bhardrinath-narasimhan-b50a9a282" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO" target="_blank">
+  <a href="https://bhardrinath-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:bhardrinath2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -61,7 +59,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧠 AI / ML (optional – keep/remove as needed)  
+### 🧠 AI / ML 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -80,11 +78,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="YOUR_USERNAME GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhardrinathn&show_icons=true&theme=tokyonight&hide_border=true" alt="bhardrinathn GitHub stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="YOUR_USERNAME GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhardrinathn&theme=tokyonight&hide_border=true" alt="bhardrinathn GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardrinathn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -93,7 +91,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhardrinathn&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -102,38 +100,32 @@
 
 <!-- Replace with your real projects -->
 
-### 🧾 Project 1 – PROJECT_NAME_1
-- 🔹 Short description of what it does  
-- 🛠 Tech used: TECH1, TECH2, TECH3  
-- 🔗 [View Repository](https://github.com/YOUR_USERNAME/REPO_NAME_1)
-
+### 🧾 Project 1 – ZUNA – The Personal AI Agent
+- 🔹Developed an AI-powered personal assistant integrating Gmail, Google Calendar, Sheets, and Telegram for daily task automation. Leveraged Google Gemini AI for natural language understanding to handle conversational user requests and automate workflows such as replying to emails, scheduling events, resolving conflicts, and updating spreadsheets.  
+- 🛠 Tech used: N8n, Python, Google APi's  
 ---
 
-### 🍽 Project 2 – PROJECT_NAME_2
-- 🔹 Short description of what it does  
-- 🛠 Tech used: TECH1, TECH2, TECH3  
+### 🍽 Project 2 – Online Table Booking System for Restaurants
+- 🔹 Created a real-time web application enabling users to reserve restaurant tables seamlessly. Designed a user-friendly interface and implemented backend logic for table availability checking, reservation management, and confirmation notifications. Built scalable architecture ensuring smooth coordination between customers and staff.
+- 🛠 Tech used: HTML, CSS,JS, PHP,SQL  
 - 🔗 [View Repository](https://github.com/YOUR_USERNAME/REPO_NAME_2)
 
 ---
 
-### 🧠 Project 3 – PROJECT_NAME_3
-- 🔹 Short description of what it does  
-- 🛠 Tech used: TECH1, TECH2, TECH3  
-- 🔗 [View Repository](https://github.com/YOUR_USERNAME/REPO_NAME_3)
 
 ---
 
 ## 📚 Currently Learning
 
-- 📌 TECH_OR_TOPIC_1  
-- 📌 TECH_OR_TOPIC_2  
-- 📌 TECH_OR_TOPIC_3  
+- 📌 Human Digital Twin  
+- 📌 Flask API
+- 📌 React,Typescript  
 
 ---
 
 ## 💬 Quote I Like
 
-> “YOUR_FAV_QUOTE_HERE”
+> **If you get tired, learn to rest – not to quit!**
 
 ---
 
