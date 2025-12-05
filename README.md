@@ -106,14 +106,14 @@
 <!-- Replace with your real projects -->
 
 ### 🧾 Project 1 – ZUNA – The Personal AI Agent
-- 🔹Developed an AI-powered personal assistant integrating Gmail, Google Calendar, Sheets, and Telegram for daily task automation. Leveraged Google Gemini AI for natural language understanding to handle conversational user requests and automate workflows such as replying to emails, scheduling events, resolving conflicts, and updating spreadsheets.  
+- Developed an AI-powered personal assistant integrating Gmail, Google Calendar, Sheets, and Telegram for daily task automation. Leveraged Google Gemini AI for natural language understanding to handle conversational user requests and automate workflows such as replying to emails, scheduling events, resolving conflicts, and updating spreadsheets.  
 - 🛠 Tech used: N8n, Python, Google APi's  
 ---
 
 ### 🍽 Project 2 – Online Table Booking System for Restaurants
-- 🔹 Created a real-time web application enabling users to reserve restaurant tables seamlessly. Designed a user-friendly interface and implemented backend logic for table availability checking, reservation management, and confirmation notifications. Built scalable architecture ensuring smooth coordination between customers and staff.
+- Created a real-time web application enabling users to reserve restaurant tables seamlessly. Designed a user-friendly interface and implemented backend logic for table availability checking, reservation management, and confirmation notifications. Built scalable architecture ensuring smooth coordination between customers and staff.
 - 🛠 Tech used: HTML, CSS,JS, PHP,SQL  
-- 🔗 [View Repository](https://github.com/YOUR_USERNAME/REPO_NAME_2)
+- 🔗 [View Repository](https://github.com/BhardrinathN/Online-Table-Reservation-System)
 
 ---
 
