@@ -4,8 +4,8 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/bhadrdrinathn?label=Followers&style=for-the-badge)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=bhardrinathn&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/bhadrdrinathn?label=Followers&style=for-the-badge)](https://github.com/bhardrinathn)
+[![Profile Views](https://komarev.com/ghpvc/?username=bhardrinathn&style=for-the-badge)](https://github.com/bhardrinathn)
 
 </div>
 
@@ -85,6 +85,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardrinathn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/BhardrinathN?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-BhardrinathN-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/BhardrinathN/)
+
 
 ---
 
