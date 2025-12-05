@@ -1,7 +1,7 @@
 
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Bhardrinath N+👋;Aspiring+Software Developer;Passionate+about+Ai Innovations;Always+learning+something+new+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C9FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+BhardrinathN+👋;Aspiring+Software Developer;Passionate+about+Ai Innovations;Always+learning+something+new+🚀" alt="Typing SVG" />
 </p>
 
 <div align="center">
