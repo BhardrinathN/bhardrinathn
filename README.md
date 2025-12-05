@@ -15,7 +15,7 @@
 
 - 💼 I’m currently focused on: **Ai & ML**  
 - 🎯 Goal: **Sucessfull SW Developer**  
-- 🌱 Currently learning: **RAG**, **MCP**, **AWS**  
+- 🌱 Currently learning: **RAG**, **MCP**, **LLM**  
 - 💬 Ask me about: **Web Development**  
 - 📍 Based in: **Chennai**  
 - ⚡ Fun fact: **Dont be afraid to take the first step**
@@ -78,11 +78,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bhardrinathn&show_icons=true&theme=tokyonight&hide_border=true" alt="bhardrinathn GitHub stats" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhardrinathn&theme=tokyonight&hide_border=true" alt="bhardrinathn GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardrinathn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -127,7 +123,7 @@
 ## 📚 Currently Learning
 
 - 📌 Human Digital Twin  
-- 📌 Flask API
+- 📌 Flask API & Cloud
 - 📌 React,Typescript  
 
 ---
