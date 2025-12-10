@@ -4,7 +4,6 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/bhadrdrinathn?label=Followers&style=for-the-badge)](https://github.com/bhardrinathn)
 [![Profile Views](https://komarev.com/ghpvc/?username=bhardrinathn&style=for-the-badge)](https://github.com/bhardrinathn)
 
 </div>
@@ -14,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 💼 I’m currently focused on: **Ai & ML**  
-- 🎯 Goal: **Sucessfull SW Developer**  
+- 🎯 Goal: **Keep on learning & exploring new paths!!**  
 - 🌱 Currently learning: **RAG**, **MCP**, **LLM**  
 - 💬 Ask me about: **Web Development**  
 - 📍 Based in: **Chennai**  
